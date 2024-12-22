@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="group_my_user_manager" model="res.groups">
+        <field name="name">Manager of My User</field>
+    </record>
+
+    <record id="group_my_user_user" model="res.groups">
+        <field name="name">User of My User</field>
+    </record>
+
+</odoo>
